@@ -10,3 +10,5 @@
 2. **smallest_missing_num**: Find the smallest missing positive number from an unsorted array
 3. **flight_paths**: Find itinerary from the given list of departure and arrival airports
 4. **maxOfIandJ**: Find the maximum value of `j – i` such that `A[j] > A[i]` in an array
+5. **truncated_arrays**: Truncate an integer array such that `2×min` becomes more than `max`
+6. **maxIndepentSet**: Given a binary tree, find the size of the Maximum Independent Set (MIS) in it.
