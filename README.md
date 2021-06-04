@@ -12,3 +12,4 @@
 4. **maxOfIandJ**: Find the maximum value of `j – i` such that `A[j] > A[i]` in an array
 5. **truncated_arrays**: Truncate an integer array such that `2×min` becomes more than `max`
 6. **maxIndepentSet**: Given a binary tree, find the size of the Maximum Independent Set (MIS) in it.
+7. **two_nums**: Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
