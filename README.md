@@ -13,3 +13,6 @@
 5. **truncated_arrays**: Truncate an integer array such that `2×min` becomes more than `max`
 6. **maxIndepentSet**: Given a binary tree, find the size of the Maximum Independent Set (MIS) in it.
 7. **two_nums**: Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
+8. **longest_substring**: (**INCOMPLETE**). find the max possible substring without duplicates from an array.
+9. **maxPossibleArea**: find the max possible area between array of ints. area is `distance between both * height of the smallest`.
+10. **remove Nth Node from end**: given a linked list, remove the nth node from end and return the new head.
