@@ -16,3 +16,4 @@
 8. **longest_substring**: (**INCOMPLETE**). find the max possible substring without duplicates from an array.
 9. **maxPossibleArea**: find the max possible area between array of ints. area is `distance between both * height of the smallest`.
 10. **remove Nth Node from end**: given a linked list, remove the nth node from end and return the new head.
+11. **matching_parens**: finding matching opening and closing parens, curly or brackets.
