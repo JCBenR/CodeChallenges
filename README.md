@@ -18,3 +18,4 @@
 10. **remove Nth Node from end**: given a linked list, remove the nth node from end and return the new head.
 11. **matching_parens**: finding matching opening and closing parens, curly or brackets.
 12. **reversed_int**: reverse an int. check to see if it's larger than a 32 bit int.
+13. **reversed_palindrome**: similar to #12, but with twist that negatives can be returned as false right away. few edge cases.
