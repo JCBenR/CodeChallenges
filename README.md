@@ -19,3 +19,5 @@
 11. **matching_parens**: finding matching opening and closing parens, curly or brackets.
 12. **reversed_int**: reverse an int. check to see if it's larger than a 32 bit int.
 13. **reversed_palindrome**: similar to #12, but with twist that negatives can be returned as false right away. few edge cases.
+13. **merge sort linked list**: given two sorted linked lists, combine them into one sorted linked list.
+14. **merge n linked lists**: this is similar to #13 but you're given n linked lists, not just 2. the approach i took was the same: add each lists val to a master array. sort that array, then plot each value into a node and link them all. performace was pretty good with this approach. 
