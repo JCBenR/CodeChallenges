@@ -21,3 +21,5 @@
 13. **reversed_palindrome**: similar to #12, but with twist that negatives can be returned as false right away. few edge cases.
 13. **merge sort linked list**: given two sorted linked lists, combine them into one sorted linked list.
 14. **merge n linked lists**: this is similar to #13 but you're given n linked lists, not just 2. the approach i took was the same: add each lists val to a master array. sort that array, then plot each value into a node and link them all. performace was pretty good with this approach. 
+15. **search rotated array**: binary search dividing up to find the location of a letter inside a sorted, but rotated array.
+16. **wordSearch**: Given an m x n grid of characters board and a string word, return true if word exists in the grid.
