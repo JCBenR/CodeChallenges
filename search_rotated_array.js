@@ -11,7 +11,7 @@
  * 3. find mid of current low/high.
  * 4. check if mid is target.
  * 5. check if low value is lower than mid. the point of this is to see if you're on a sorted half of the array.
- * 6. if you are on the sorted half, then just determine if the target is to the left or righ of mid. move accordingly.
+ * 6. if you are on the sorted half, then just determine if the target is to the left or right of mid. move accordingly.
  * 7. if you're not on the sorted half, then move to the right side.
  * 
  * the goal is to get high, low and mid to essentially collide in the same spot. 

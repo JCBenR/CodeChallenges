@@ -23,3 +23,4 @@
 14. **merge n linked lists**: this is similar to #13 but you're given n linked lists, not just 2. the approach i took was the same: add each lists val to a master array. sort that array, then plot each value into a node and link them all. performace was pretty good with this approach. 
 15. **search rotated array**: binary search dividing up to find the location of a letter inside a sorted, but rotated array.
 16. **wordSearch**: Given an m x n grid of characters board and a string word, return true if word exists in the grid.
+17. **reorder list in place**: given a linked list of nodes, reorder it, in place, so that it appears (L0 → Ln → L1 → Ln - 1 → L2 → Ln - 2 → …)
